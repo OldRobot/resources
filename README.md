@@ -9,8 +9,8 @@
 
 | Resource | Link | Description |
 | ------ | ------ | ------------|
-| Get Waves | [htttps://getwaves.io][PlDb] | Generates a css wave shape |
-| Animated wave | [https://www.danielefavi.com/blog/css-wave-generator/][PlGh] | Animated wave |
+| Get Waves | htttps://getwaves.io | Generates a css wave shape |
+| Animated wave | https://www.danielefavi.com/blog/css-wave-generator/ | Animated wave |
 | DivTable |	https://divtable.com/table-styler/ |Tables |
 | Gradients | 	https://www.colorzilla.com/gradient-editor/	| CSS gradient editor |
 | Flex boxes |	https://the-echoplex.net/flexyboxes/ |	A flexbox tool |
@@ -24,13 +24,13 @@
 
 | Resource | Link | Description |
 | ------ | ------ | ------------|
-Icon Master	|	[	https://iconmonstr.com/	]	[PlDb]	|	Flat icons for free	|
-Font Awsome	|	[	https://fontawesome.com/	]	[PlGh]	|	Free icons, some paid	|
-Bootstrap icons	|	[	https://icons.getbootstrap.com/	]	[PlDb]	|	Free bootstrap 5 icons	|
-Icons 8	|	[	https://icons8.com/icons/set/css	]	[PlGh]	|	Free icons	|
-Free icons	|	[	https://freeicons.io/	]	[PlDb]	|	Available in base 64 also	|
-UnDraw	|	[	https://undraw.co/	]	[PlGh]	|	Illustrations , custom colours	|
-Ion icons	|	[	https://ionicons.com/	]	[PlDb]	|	More open source icons.	|
-Fea icons	|	[	https://feathericons.com/	]	[PlGh]	|	Customisable size,stroke and colour	|
-Ikons	|	[	http://ikons.piotrkwiatkowski.co.uk/	]	[PlDb]	|	300 free icons	|
-Github	|	[	https://primer.style/octicons/	]	[PlGh]	|	Opticons	|
+Icon Master	|		https://iconmonstr.com/		|	Flat icons for free	|
+Font Awsome	|		https://fontawesome.com/	|	Free icons, some paid	|
+Bootstrap icons	|		https://icons.getbootstrap.com/		|	Free bootstrap 5 icons	|
+Icons 8	|		https://icons8.com/icons/set/css|	Free icons	|
+Free icons	|	[	https://freeicons.io/	|	Available in base 64 also	|
+UnDraw	|		https://undraw.co/		|	Illustrations , custom colours	|
+Ion icons	|		https://ionicons.com/		|	More open source icons.	|
+Fea icons	|		https://feathericons.com/	|	Customisable size,stroke and colour	|
+Ikons	|		http://ikons.piotrkwiatkowski.co.uk/		|	300 free icons	|
+Github	|		https://primer.style/octicons/		|	Opticons	|
