@@ -10,19 +10,27 @@
 | Resource | Link | Description |
 | ------ | ------ | ------------|
 | Get Waves | [htttps://getwaves.io][PlDb] | Generates a css wave shape |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Animated wave | [https://www.danielefavi.com/blog/css-wave-generator/][PlGh] | Animated wave |
+| DivTable |	https://divtable.com/table-styler/ |Tables |
+| Gradients | 	https://www.colorzilla.com/gradient-editor/	| CSS gradient editor |
+| Flex boxes |	https://the-echoplex.net/flexyboxes/ |	A flexbox tool |
+| CSS patterns |	http://www.patternify.com/ |	CSS pattern generator |
+| CSS buttons	| https://www.bestcssbuttongenerator.com/	| CSS button generator |
+| CSS buttons |	https://cssbuttoncreator.com/	| Nice css buttons |
+| CSS tricks |https://css-tricks.com/examples/ButtonMaker/ | Button creator |
+
 
 ### Images and Icons
 
 | Resource | Link | Description |
 | ------ | ------ | ------------|
-| Get Waves | [htttps://getwaves.io][PlDb] | Generates a css wave shape |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+Icon Master	|	[	https://iconmonstr.com/	]	[PlDb]	|	Flat icons for free	|
+Font Awsome	|	[	https://fontawesome.com/	]	[PlGh]	|	Free icons, some paid	|
+Bootstrap icons	|	[	https://icons.getbootstrap.com/	]	[PlDb]	|	Free bootstrap 5 icons	|
+Icons 8	|	[	https://icons8.com/icons/set/css	]	[PlGh]	|	Free icons	|
+Free icons	|	[	https://freeicons.io/	]	[PlDb]	|	Available in base 64 also	|
+UnDraw	|	[	https://undraw.co/	]	[PlGh]	|	Illustrations , custom colours	|
+Ion icons	|	[	https://ionicons.com/	]	[PlDb]	|	More open source icons.	|
+Fea icons	|	[	https://feathericons.com/	]	[PlGh]	|	Customisable size,stroke and colour	|
+Ikons	|	[	http://ikons.piotrkwiatkowski.co.uk/	]	[PlDb]	|	300 free icons	|
+Github	|	[	https://primer.style/octicons/	]	[PlGh]	|	Opticons	|
