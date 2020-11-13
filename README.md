@@ -1,5 +1,7 @@
 # Useful Resources
 
+![Alt text](note.png?raw=true "notes")
+
   - This file has links to useful web, programming, software and design resources.
   - The should be free resources that are good examples of there type.
 
