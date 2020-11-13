@@ -1,4 +1,5 @@
 # Useful Resources
+![alt text](https://github.com/CollegePaul/resources/note.png "recsources")
 
   - This file has links to useful web, programming, software and design resources.
   - The should be free resources that are good examples of there type.
